@@ -30,10 +30,11 @@
  * MS Office 2016
  * MS Office 2019
 ### OS
- * Windows 10 x64
- * Windows 10 x32
+ * [Windows 10 Pro x64](https://www.1377x.to/torrent/4697396/Windows-10-Pro-en-US-v1909-x64-BiT-Activated-KBO/)
+ * [Windows 10 Pro x32](https://www.1377x.to/torrent/1284418/Microsoft-Windows-10-PRO-FULL-x86-Sep-2015-TechTools/)
+ * [Windows 8.1 Pro x64](https://www.1377x.to/torrent/4051625/Windows-8-1-Pro-x64-October-2019-Pre-Activated-FileRiver/)
  * Windows 7
- * KMSpico Activator
+ * [KMSpico Activator](https://www.1377x.to/torrent/1341251/KMSpico-10-1-8-FINAL-Portable-Office-and-Windows-10-Activator-TechTools/)
 ### Proxifier
  * Available in folder
 ### VPN
